@@ -1,5 +1,7 @@
 <b>Project: Awesome Usage Monitor</b><br>
-Original repository location: github.com/psu-epl/Capstones-LID_Tracking<br><br>
+Original repository location: github.com/psu-epl/Capstones-LID_Tracking<br>
+Dates: Jan-June 2017<br><br>
+
 
 Overview:<br>
 <ul>
