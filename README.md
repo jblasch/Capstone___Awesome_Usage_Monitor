@@ -1,6 +1,4 @@
 <b>Project: Awesome Usage Monitor</b><br>
-Original repository location: github.com/psu-epl/Capstones-LID_Tracking<br>
-Notes: Original repository is private. Noticed 7/14/17 my access and commits have been removed.<br> 
 Dates: Jan-June 2017<br><br>
 
 
