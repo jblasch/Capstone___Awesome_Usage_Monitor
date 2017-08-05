@@ -1,4 +1,4 @@
-<h1>Project: Awesome Usage Monitor</h1><br>
+<h1>Project: Awesome Usage Monitor</h1>
 Dates: Jan-June 2017<br><br>
 
 
