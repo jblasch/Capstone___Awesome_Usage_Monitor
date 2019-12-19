@@ -3,7 +3,7 @@
 <!-- <img src="http://i67.tinypic.com/21d3pdv.jpg" border="0" alt="File Overview"></a> -->
 <a href="https://drive.google.com/uc?export=view&id=17QdCAie9_gpRf-Wjn7w-TChBuc_vt9lu">
     <img src="https://drive.google.com/uc?export=view&id=17QdCAie9_gpRf-Wjn7w-TChBuc_vt9lu"
-    width="300" height="auto"
+    width="600" height="auto"
     title="Click for the larger version." />
 <br><br>
 <a href="https://drive.google.com/uc?export=view&id=1ytvq_lihIFrNypXjCWN_kuZ_L3y1-miA">
